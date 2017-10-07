@@ -35,7 +35,7 @@ class Valued(QDialog):
 
 def ser_operation(command):
     ser = serial.Serial(
-          port='/dev/controlboard',
+          port=3,
           baudrate = 115200,
           parity=serial.PARITY_NONE,
           stopbits=serial.STOPBITS_ONE,
