@@ -1,0 +1,6 @@
+C:\Users\srprasad\Documents\Visual Studio 2015\Projects\RADDevice_VUP\CurrentVideoService\bin\CurrentVideoService.dll.config
+C:\Users\srprasad\Documents\Visual Studio 2015\Projects\RADDevice_VUP\CurrentVideoService\bin\CurrentVideoService.dll
+C:\Users\srprasad\Documents\Visual Studio 2015\Projects\RADDevice_VUP\CurrentVideoService\bin\CurrentVideoService.pdb
+C:\Users\srprasad\Documents\Visual Studio 2015\Projects\RADDevice_VUP\CurrentVideoService\obj\Debug\CurrentVideoService.csprojResolveAssemblyReference.cache
+C:\Users\srprasad\Documents\Visual Studio 2015\Projects\RADDevice_VUP\CurrentVideoService\obj\Debug\CurrentVideoService.dll
+C:\Users\srprasad\Documents\Visual Studio 2015\Projects\RADDevice_VUP\CurrentVideoService\obj\Debug\CurrentVideoService.pdb

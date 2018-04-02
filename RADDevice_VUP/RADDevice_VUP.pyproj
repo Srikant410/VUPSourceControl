@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>facbeffa-cc49-4e0a-8c4b-eb9d04a5547e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>VUPMain.py</StartupFile>
+    <StartupFile>CallWebService.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,10 +22,34 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="CallWebService.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NewXMLParse.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="omx.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SerialGUI.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SQL.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="VUPMain.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="RADDevice_VUP_ui.py" />
+    <Compile Include="WebService.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="XMLParse.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="{325cb2d5-a42a-48c5-828a-339c2a525331}\2.7" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

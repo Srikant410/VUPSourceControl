@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RADDevice_VUP", "RADDevice_VUP\RADDevice_VUP.pyproj", "{FACBEFFA-CC49-4E0A-8C4B-EB9D04A5547E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrentVideoService", "CurrentVideoService\CurrentVideoService.csproj", "{870E2BEC-0557-4E45-9B55-5153E3387C55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FACBEFFA-CC49-4E0A-8C4B-EB9D04A5547E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FACBEFFA-CC49-4E0A-8C4B-EB9D04A5547E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870E2BEC-0557-4E45-9B55-5153E3387C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870E2BEC-0557-4E45-9B55-5153E3387C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870E2BEC-0557-4E45-9B55-5153E3387C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870E2BEC-0557-4E45-9B55-5153E3387C55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
